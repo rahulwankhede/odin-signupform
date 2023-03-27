@@ -55,3 +55,12 @@ table {
 #side-img{
     height: 100vh;
 }
+
+input, label{
+	display: block;
+}
+
+.name, .contact-details, .passwords{
+	display: flex;
+	gap: 100px;
+}
